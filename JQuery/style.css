@@ -1,0 +1,18 @@
+.color{background-color: gainsboro;}
+.color:hover{
+    background-color: dimgray;
+}
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.clock{
+    text-align: center;
+}
+.middle{
+    background-color: rgb(15, 15, 15);
+    width: fit-content;
+    padding: 0in 0.5in;
+    color:mintcream;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
